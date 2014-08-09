@@ -1,4 +1,4 @@
-PROJECT=report
+PROJECT=cv
 OUTPUT=output
 TEX=pdflatex
 BB=bibtex
