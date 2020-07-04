@@ -1,4 +1,15 @@
-CV
-==
+# CV
 
-My very own Curriculum Vitae! Build it using `make`, and the generated CV is available at `output/cv.pdf`.
+## Prerequisites
+
+`brew cask install mactex`
+
+bashrc: `export PATH=/Library/TeX/texbin:$PATH`
+
+
+## Build
+
+`make`
+
+Output: `output/cv.pdf`.
+
